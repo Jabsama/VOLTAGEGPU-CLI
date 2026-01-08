@@ -387,7 +387,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **GitHub**: [github.com/Jabsama/VOLTAGEGPU-CLI](https://github.com/Jabsama/VOLTAGEGPU-CLI)
 - **PyPI**: [pypi.org/project/voltagegpu-cli](https://pypi.org/project/voltagegpu-cli)
 - **Twitter**: [@VoltageGPU](https://twitter.com/VoltageGPU)
-- **Discord**: [discord.gg/voltagegpu](https://discord.gg/voltagegpu)
+- **Discord**: [discord.gg/6HktnD2GUr](https://discord.gg/6HktnD2GUr)
 
 ---
 
